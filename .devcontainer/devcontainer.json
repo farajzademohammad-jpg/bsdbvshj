@@ -1,5 +1,5 @@
 {
-  "name": "ghtun",
+  "name": "May-4-version-1210",
   "build": {
     "dockerfile": "./Dockerfile",
     "context": "."
